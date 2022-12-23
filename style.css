@@ -1,8 +1,10 @@
 body {
-
+ margin: auto;
+ padding: 0%;
+ 
  background-color: navy;
  color: oldlace;
- text-align: center;
+ text-align: center; 
 }
  
 .class{
