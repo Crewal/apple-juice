@@ -1,14 +1,14 @@
 body {
- margin: auto;
- padding: 0%;
  
  background-color: navy;
  color: oldlace;
  text-align: center; 
 }
  
-.class{
-
+.class1{
+ color: lightblue;
+ margin: 0px 300px 0px 300px;
+ padding: 0px;
 }
 
 .button-85 {
